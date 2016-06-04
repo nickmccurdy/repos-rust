@@ -1,0 +1,6 @@
+[package]
+name = "repos"
+version = "0.1.0"
+authors = ["Nicolas McCurdy <thenickperson@gmail.com>"]
+
+[dependencies]
